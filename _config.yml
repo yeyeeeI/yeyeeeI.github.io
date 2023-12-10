@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "叶子煊"
-  avatar           : "./images/01.png"
+  avatar           : "01.png"
   bio              : "江苏海洋大学大三在读"
   location         : "浙江温州"
   employer         :
